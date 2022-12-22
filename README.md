@@ -1,2 +1,8 @@
-# react-github-api
-Projeto feito com React, Typescript  e api do github
+A funcionalidade é buscar por usuários do GitHub e trazer os dados via resposta da API
+
+
+Ferramentas utilizadas:
+ Fetch API
+ React.js
+ Styled Components
+ controle de rotas (páginas) com o React Router DOM
