@@ -2,7 +2,7 @@ A funcionalidade é buscar por usuários do GitHub e trazer os dados via respost
 
 
 Ferramentas utilizadas:
- Fetch API
- React.js
- Styled Components
- controle de rotas (páginas) com o React Router DOM
+ - Fetch API
+ - React.js
+ - Styled Components
+ - Controle de rotas (páginas) com o React Router DOM
